@@ -466,7 +466,7 @@ if (mysqli_num_rows($insert_query) > 0) {
                 <div class="row">
                   <div class=" col-sm-12 offset-sm-3 form-group">
                     <button class="btn btn-primary" type="submit">
-                      Submit it
+                      Submit
                     </button>
                   </div>
                 </div>
